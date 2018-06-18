@@ -14,9 +14,7 @@ body{
   color: white;
   font-family: Verdana;
 }
-.video{
-  object-fit: contain;
-}
+
 
 .picture{
   object-fit: scale-down;
@@ -26,4 +24,10 @@ h1{
 }
 h2{
   font-size: 42px;
+}
+.grey-text{
+  color: grey;
+}
+footer{
+  text-align: right;
 }
